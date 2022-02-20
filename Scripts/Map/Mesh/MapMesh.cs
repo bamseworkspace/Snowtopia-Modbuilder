@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MapMeshGenerator : MonoBehaviour
+public class MapMesh : MonoBehaviour
 {
     public int xSize;
     public int zSize;
